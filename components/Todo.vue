@@ -54,18 +54,12 @@
 		/*color: yellow;*/
 		width: 50px;
 	}
-	.delete-btn:hover{
-		color: red;
-		width: 40px;
-	}
 	li{
 		list-style: none;
 	}
 	.delete-btn{
 		margin-left: 5px;
 		width: 20px;
-		transition: width 2s;
-		-webkit-transition: width 2s;
 	}
 	.finished{
 		color:#aaa;
