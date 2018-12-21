@@ -8,3 +8,5 @@ npm install
 npm run server
 
 #open the http://localhost:9000
+
+It also support the hot deploy.
